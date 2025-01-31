@@ -14,6 +14,8 @@ for free.
 ### All Tools Frame
 <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/All_Tools_frame.png" width="200" height="600">     <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/All_Tools_frame2.png" width="200" height="500"> 
 
+### Edit Frame
+<img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Edit_Frame.png" width="200" height="600">     <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Edit_Frame2.png" width="200" height="600"> 
 
 ## Features
 
