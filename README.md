@@ -1,1 +1,74 @@
-# Alaikoo
+
+# Alaikoo: The PDF Reader and Editor
+
+
+The PDF Manager is a versatile desktop application designed to be an all-in-one
+solution for managing, editing, and interacting with PDF files. Its intuitive interface
+and powerful functionality make it an essential tool for students, professionals,
+and anyone who frequently works with digital documents.
+
+It is free of cost, so anyone can download the software on their devices and use it
+for free.
+## Features
+
+𝐊𝐞𝐲 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬:
+
+𝟏) 𝐑𝐞𝐚𝐝 𝐏𝐃𝐅 𝐅𝐢𝐥𝐞𝐬 :
+A built-in PDF reader allows users to open and read documents effortlessly, with smooth scrolling, zoom options for a seamless reading experience.
+
+𝟐) 𝐄𝐝𝐢𝐭 𝐏𝐃𝐅 𝐅𝐢𝐥𝐞𝐬 :
+Rearrange pages, or add annotations such as highlights, and comments directly to PDF documents.
+
+𝟑) 𝐂𝐫𝐞𝐚𝐭𝐞 𝐏𝐃𝐅𝐬
+Convert images or documents into professional-quality PDFs in just a few clicks.
+
+𝟒) 𝐒𝐞𝐥𝐞𝐜𝐭 𝐓𝐞𝐱𝐭 𝐢𝐧 𝐏𝐃𝐅𝐬:
+Enable users to select specific text in a PDF document for copying or annotating.
+
+𝟓) 𝐇𝐢𝐠𝐡𝐥𝐢𝐠𝐡𝐭 𝐓𝐞𝐱𝐭 :
+Add visual emphasis to important sections by highlighting selected text in a variety of colors for study, reference, or collaborative purposes.
+
+𝟔) 𝐀𝐝𝐝 𝐓𝐞𝐱𝐭 𝐭𝐨 𝐏𝐃𝐅𝐬 :
+Insert new text into existing PDF documents.
+
+𝟕) 𝐌𝐞𝐫𝐠𝐞 𝐚𝐧𝐝 𝐒𝐩𝐥𝐢𝐭 𝐏𝐃𝐅𝐬 :
+Combine multiple PDF files into a single cohesive document, or split large PDFs into smaller sections.
+
+𝟖) 𝐂𝐨𝐦𝐩𝐫𝐞𝐬𝐬 𝐏𝐃𝐅 𝐅𝐢𝐥𝐞𝐬 :
+Reduce the file size of PDFs without compromising quality, making it easier to share and store documents.
+
+𝟗) 𝐒𝐞𝐜𝐮𝐫𝐞 𝐘𝐨𝐮𝐫 𝐏𝐃𝐅𝐬 :
+Lock PDF files with strong passwords, restrict editing or printing, and add watermarks to protect sensitive information.
+
+𝟏𝟎) 𝐌𝐨𝐝𝐢𝐟𝐲 𝐏𝐚𝐬𝐬𝐰𝐨𝐫𝐝𝐬 :
+Update or remove existing passwords on secured PDF files with ease.
+
+𝟏𝟏) 𝐄𝐱𝐭𝐫𝐚𝐜𝐭 𝐂𝐨𝐧𝐭𝐞𝐧𝐭 :
+Extract specific pages, images from a PDF file, saving only what’s needed.
+
+𝟏𝟐) 𝐈𝐧𝐭𝐮𝐢𝐭𝐢𝐯𝐞 𝐔𝐬𝐞𝐫 𝐈𝐧𝐭𝐞𝐫𝐟𝐚𝐜𝐞 :
+A clean, user-friendly design makes it easy to navigate through various tools, even for beginners.
+## Author
+
+- [Mohd Maaz](www.linkedin.com/in/mohammed-maaz-rayeen-b914a4303)
+
+
+## Tech Stack
+
+**Language:** Python
+
+**Librabries:** Tkinter, Custom Tkinter, Pillow, Fitz, Threading,  PyPDF2, pypdf, OS, docx, pikepdf
+
+
+## Installation
+You need to install some libraries using the command terminal so that the code runs smoothly on your device.
+
+`pip install tk customtkinter pillow pymupdf threading pypdf2 pypdf os-python python-docx pikepdf`
+
+This single function will install all the libraries required for the project
+
+    
+## Support
+
+For support, message me on Linkedin [Mohd Maaz](www.linkedin.com/in/mohammed-maaz-rayeen-b914a4303)
+
