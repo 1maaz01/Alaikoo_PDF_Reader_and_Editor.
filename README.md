@@ -9,9 +9,11 @@ and anyone who frequently works with digital documents.
 
 It is free of cost, so anyone can download the software on their devices and use it
 for free.
-## Features
 
-𝐊𝐞𝐲 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬:
+## Buttons along with their functionalities -- 
+
+
+## Features
 
 𝟏) 𝐑𝐞𝐚𝐝 𝐏𝐃𝐅 𝐅𝐢𝐥𝐞𝐬 :
 A built-in PDF reader allows users to open and read documents effortlessly, with smooth scrolling, zoom options for a seamless reading experience.
