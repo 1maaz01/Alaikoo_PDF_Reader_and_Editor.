@@ -17,6 +17,10 @@ for free.
 ### Edit Frame
 <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Edit_Frame.png" width="200" height="600">     <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Edit_Frame2.png" width="200" height="600"> 
 
+
+### Button Frame
+<img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Button_Frame.png" width="100" height="600">  
+
 ## Features
 
 𝟏) 𝐑𝐞𝐚𝐝 𝐏𝐃𝐅 𝐅𝐢𝐥𝐞𝐬 :
