@@ -71,5 +71,5 @@ This single function will install all the libraries required for the project
     
 ## Support
 
-For support, message me on Linkedin [Mohd Maaz](www.linkedin.com/in/mohammed-maaz-rayeen-b914a4303)
+For support, message me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-maaz-rayeen-b914a4303)
 
