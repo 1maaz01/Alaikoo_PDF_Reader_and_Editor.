@@ -12,14 +12,14 @@ for free.
 
 ## Components of the Window -- 
 ### All Tools Frame
-<img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/All_Tools_frame.png" width="200" height="600">     <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/All_Tools_frame2.png" width="200" height="500"> 
+<img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/New%20folder%20(2)/All_Tools_frame1A.png" width="200" height="600">     <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/New%20folder%20(2)/All_Tools_frame1B.png" width="200" height="600">                  <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/New%20folder%20(2)/All_Tools_frame2A.png" width="200" height="600">     <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/New%20folder%20(2)/All_Tools_frame2B.png" width="200" height="600">  
 
 ### Edit Frame
-<img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Edit_Frame.png" width="200" height="600">     <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Edit_Frame2.png" width="200" height="600"> 
+<img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/New%20folder%20(2)/Edit_FrameA.png" width="200" height="600">     <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/New%20folder%20(2)/Edit_FrameB.png" width="200" height="600">      <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/New%20folder%20(2)/Edit_Frame2A.png" width="200" height="600">     <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/New%20folder%20(2)/Edit_Frame2B.png" width="200" height="600"> 
 
 
 ### Button Frame
-<img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Button_Frame.png" width="100" height="600">  
+<img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/New%20folder%20(2)/Button_Frame2A.png" width="100" height="600">  <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/New%20folder%20(2)/Button_Frame2B.png" width="300" height="600"> 
 
 ## Features
 
