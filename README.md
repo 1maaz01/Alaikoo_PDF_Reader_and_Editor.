@@ -10,7 +10,7 @@ and anyone who frequently works with digital documents.
 It is free of cost, so anyone can download the software on their devices and use it
 for free.
 
-## Components of the Window -- 
+## Components of the Main Window -- 
 ### All Tools Frame
 <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/New%20folder%20(2)/All_Tools_frame1A.png" width="200" height="600">     <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/New%20folder%20(2)/All_Tools_frame1B.png" width="200" height="600">                  <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/New%20folder%20(2)/All_Tools_frame2A.png" width="200" height="600">     <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/New%20folder%20(2)/All_Tools_frame2B.png" width="200" height="600">  
 
@@ -24,6 +24,8 @@ for free.
 <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Button_Frame.png" width="600" height="600"> 
 
 ## Features
+Add Watermark to the pdf :
+<img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Add_Watermarkp.png" width="1000" height="600"> 
 
 𝟏) 𝐑𝐞𝐚𝐝 𝐏𝐃𝐅 𝐅𝐢𝐥𝐞𝐬 :
 A built-in PDF reader allows users to open and read documents effortlessly, with smooth scrolling, zoom options for a seamless reading experience.
