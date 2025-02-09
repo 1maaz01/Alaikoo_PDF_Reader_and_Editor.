@@ -10,26 +10,40 @@ and anyone who frequently works with digital documents.
 It is free of cost, so anyone can download the software on their devices and use it
 for free.
 
-## Components of the Main Window -- 
-### All Tools Frame
+# Components of the Main Window -- 
+## All Tools Frame
 <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/New%20folder%20(2)/All_Tools_frame1A.png" width="200" height="600">     <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/New%20folder%20(2)/All_Tools_frame1B.png" width="200" height="600">                  <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/New%20folder%20(2)/All_Tools_frame2A.png" width="200" height="600">     <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/New%20folder%20(2)/All_Tools_frame2B.png" width="200" height="600">  
 
-### Edit Frame
+## Edit Frame
 <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/New%20folder%20(2)/Edit_FrameA.png" width="200" height="600">     <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/New%20folder%20(2)/Edit_FrameB.png" width="200" height="600">      <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/New%20folder%20(2)/Edit_Frame2A.png" width="200" height="600">     <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/New%20folder%20(2)/Edit_Frame2B.png" width="200" height="600"> 
 
-### Convert Frame
+## Convert Frame
  <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Lok.png" width="500" height="600">    
 
-### Button Frame
+## Button Frame
 <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Button_Frame.png" width="600" height="600"> 
 
-## Features
-### Insert Watermark to the pdf :
+# Features
+## Insert Watermark to the pdf :
 <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Add_Watermark/A.png" width="1000" height="600"> 
 <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Add_Watermark/B.png" width="1000" height="600"> 
 
-#### After uploading the pdf :
+### Uploading the pdf :
+Click on the upload pdf button and select the pdf that you want to insert the watermark in. 
+
 <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Add_Watermark/Add_Watermark_1.png" width="1000" height="600"> 
+
+### After uploading the pdf:
+#### Inserting a text watermark.
+Enter the text you want to use as the watermark in the entry box, then click the Display Text button to preview how it will appear on the PDF.
+
+<img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Add_Watermark/Add_Watermark.png" width="1000" height="600"> 
+
+#### Inserting an image watermark.
+Click on the upload watermark button and select the image that you want to insert as a watermark. A preview will be visible on the screen.
+
+<img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Add_Watermark/Add_Watermark_2.png" width="1000" height="600"> 
+
 
 𝟏) 𝐑𝐞𝐚𝐝 𝐏𝐃𝐅 𝐅𝐢𝐥𝐞𝐬 :
 A built-in PDF reader allows users to open and read documents effortlessly, with smooth scrolling, zoom options for a seamless reading experience.
