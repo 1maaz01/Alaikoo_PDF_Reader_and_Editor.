@@ -24,8 +24,12 @@ for free.
 <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Button_Frame.png" width="600" height="600"> 
 
 ## Features
-Add Watermark to the pdf :
-<img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Add_Watermarkp.png" width="1000" height="600"> 
+### Insert Watermark to the pdf :
+<img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Add_Watermark/A.png" width="1000" height="600"> 
+<img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Add_Watermark/B.png" width="1000" height="600"> 
+
+#### After uploading the pdf :
+<img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Add_Watermark/Add_Watermark_1.png" width="1000" height="600"> 
 
 𝟏) 𝐑𝐞𝐚𝐝 𝐏𝐃𝐅 𝐅𝐢𝐥𝐞𝐬 :
 A built-in PDF reader allows users to open and read documents effortlessly, with smooth scrolling, zoom options for a seamless reading experience.
