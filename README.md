@@ -56,6 +56,10 @@ You can adjust the size, transparency, and position of the watermark using the s
 <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Delete_Pages/B.png" width="1000" height="600"> 
 <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Delete_Pages/C.png" width="1000" height="600"> 
 
+## Inserting a blank page in the pdf.
+<img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Insert_Blank_Page/A.png" width="1000" height="600"> 
+<img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Insert_Blank_Page/B.png" width="1000" height="600"> 
+<img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Insert_Blank_Page/C.png" width="1000" height="600"> 
 
 
 𝟐) 𝐄𝐝𝐢𝐭 𝐏𝐃𝐅 𝐅𝐢𝐥𝐞𝐬 :
