@@ -129,6 +129,14 @@ You can adjust the size, transparency, and position of the watermark using the s
 
 ---
 
+## Creating a pdf :
+<img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Create_PDF/A.png" width="1000" height="600"> 
+<img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Create_PDF/B.png" width="1000" height="600"> 
+<img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Create_PDF/C.png" width="1000" height="600"> 
+<img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Create_PDF/D.png" width="1000" height="600"> 
+
+---
+
 ## Author - Mohd Maaz 
   <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/F.jpg" width="200" height="200"> 
   
