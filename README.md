@@ -145,6 +145,22 @@ You can adjust the size, transparency, and position of the watermark using the s
 
 ---
 
+## Lock PDF :
+<img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Lock%20PDF/A.png" width="1000" height="600"> 
+<img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Lock%20PDF/B.png" width="1000" height="600">
+<img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Lock%20PDF/C.png" width="1000" height="600">
+<img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Lock%20PDF/D.png" width="1000" height="600">
+
+The process for modifying password in PDF is the same as for locking it. The only difference is that it will ask for the previous password before making changes.
+
+
+---
+
+## Split PDF :
+<img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Split%20PDF/A.png" width="1000" height="600"> 
+<img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Split%20PDF/B.png" width="1000" height="600"> 
+<img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Split%20PDF/C.png" width="1000" height="600"> 
+
 ---
 
 ## Author - Mohd Maaz 
