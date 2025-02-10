@@ -107,6 +107,19 @@ You can adjust the size, transparency, and position of the watermark using the s
 
 ---
 
+## Swapping pages in the pdf :
+<img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Swap_Page/A.png" width="1000" height="600"> 
+<img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Swap_Page/B.png" width="1000" height="600"> 
+<img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Swap_Page/C.png" width="1000" height="600"> 
+<img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Swap_Page/D.png" width="1000" height="600"> 
+
+---
+
+## Rotating pages in the pdf :
+<img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Rotate/A.png" width="1000" height="600"> 
+
+---
+
 ## Author - Mohd Maaz 
   <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/F.jpg" width="200" height="200"> 
   
