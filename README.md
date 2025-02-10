@@ -163,6 +163,13 @@ The process for modifying password in PDF is the same as for locking it. The onl
 
 ---
 
+## Convert To Word, Excel, Image
+<img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Convert_l/A.png" width="1000" height="600"> 
+<img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Convert_l/B.png" width="1000" height="600"> 
+<img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Convert_l/C.png" width="1000" height="600"> 
+
+---
+
 ## Author - Mohd Maaz 
   <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/F.jpg" width="200" height="200"> 
   
