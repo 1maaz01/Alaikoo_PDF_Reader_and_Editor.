@@ -31,15 +31,15 @@ Convert the pdf to images, word or excel files.
 8) **Insert or Remove Watermarks** :
 Insert a text or an image watermarK in the pdf. The size, position and transparency of the watermark can be controlled with the inbuilt functions in Alaikoo. You can also Remove the Watermarks from your pdf using this software.
 
-9) **Zoom in and Zoom out options**:
+9) **Zoom in and Zoom out options** :
 Adjust the size of the page according to your requirements.
 
 
-# Main Window -
+# Main Window :
 A built-in PDF reader allows users to open and read documents effortlessly, with smooth scrolling, zoom options for a seamless reading experience.
 <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Folder%202/Main_Window.png" width="1000" height="600">
 
-# Components of the Main Window -
+# Components of the Main Window :
 ## All Tools Frame
 <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/New%20folder%20(2)/All_Tools_frame1A.png" width="200" height="600">     <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/New%20folder%20(2)/All_Tools_frame1B.png" width="200" height="600">                  <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/New%20folder%20(2)/All_Tools_frame2A.png" width="200" height="600">     <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/New%20folder%20(2)/All_Tools_frame2B.png" width="200" height="600">  
 
@@ -65,28 +65,34 @@ Click on the upload pdf button and select the pdf that you want to insert the wa
 
 <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Add_Watermark/Add_Watermark_1.png" width="1000" height="600"> 
 
-### After uploading the pdf:
-#### Inserting a text watermark.
+### After uploading the pdf :
+#### Inserting a text watermark :
 Enter the text you want to use as the watermark in the entry box, then click the Display Text button to preview how it will appear on the PDF.
 
 <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Add_Watermark/Add_Watermark.png" width="1000" height="600"> 
 
-#### Inserting an image watermark.
+#### Inserting an image watermark :
 Click on the upload watermark button and select the image that you want to insert as a watermark. A preview will be visible on the screen.
 
 <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Add_Watermark/Add_Watermark_2.png" width="1000" height="600"> 
 
 You can adjust the size, transparency, and position of the watermark using the sliders, then click the Save PDF button.
 
-## Deleting the current page of the pdf.
+## Deleting the current page of the pdf :
 <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Delete_Pages/A.png" width="1000" height="600"> 
 <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Delete_Pages/B.png" width="1000" height="600"> 
 <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Delete_Pages/C.png" width="1000" height="600"> 
 
-## Inserting a blank page in the pdf.
+## Inserting a blank page in the pdf :
 <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Insert_Blank_Page/A.png" width="1000" height="600"> 
 <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Insert_Blank_Page/B.png" width="1000" height="600"> 
 <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Insert_Blank_Page/C.png" width="1000" height="600"> 
+
+## Inserting a page in the pdf :
+<img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Insert_Page/A.png" width="1000" height="600"> 
+<img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Insert_Page/B.png" width="1000" height="600"> 
+<img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Insert_Page/C.png" width="1000" height="600"> 
+<img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Insert_Page/D.png" width="1000" height="600"> 
 
 
 
