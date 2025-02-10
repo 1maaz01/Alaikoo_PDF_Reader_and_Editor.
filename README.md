@@ -9,6 +9,7 @@ and anyone who frequently works with digital documents.
 
 
 # Main Window -
+A built-in PDF reader allows users to open and read documents effortlessly, with smooth scrolling, zoom options for a seamless reading experience.
 <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Folder%202/Main_Window.png" width="1000" height="600">
 
 # Components of the Main Window -
@@ -50,9 +51,12 @@ Click on the upload watermark button and select the image that you want to inser
 
 You can adjust the size, transparency, and position of the watermark using the sliders, then click the Save PDF button.
 
+## Deleting the current page of the pdf.
+<img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Delete_Pages/A.png" width="1000" height="600"> 
+<img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Delete_Pages/B.png" width="1000" height="600"> 
+<img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Delete_Pages/C.png" width="1000" height="600"> 
 
-𝟏) 𝐑𝐞𝐚𝐝 𝐏𝐃𝐅 𝐅𝐢𝐥𝐞𝐬 :
-A built-in PDF reader allows users to open and read documents effortlessly, with smooth scrolling, zoom options for a seamless reading experience.
+
 
 𝟐) 𝐄𝐝𝐢𝐭 𝐏𝐃𝐅 𝐅𝐢𝐥𝐞𝐬 :
 Rearrange pages, or add annotations such as highlights, and comments directly to PDF documents.
