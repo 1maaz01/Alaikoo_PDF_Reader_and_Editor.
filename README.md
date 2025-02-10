@@ -26,6 +26,9 @@ for free.
 ## Button Frame
 <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Button_Frame.png" width="600" height="600"> 
 
+## File Menu
+<img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Folder%202/File_Menu.png" width="650" height="600"> 
+
 # Features
 ## Insert Watermark to the pdf :
 <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Add_Watermark/A.png" width="1000" height="600"> 
