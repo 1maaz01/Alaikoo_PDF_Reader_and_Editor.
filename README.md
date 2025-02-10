@@ -34,10 +34,13 @@ Insert a text or an image watermarK in the pdf. The size, position and transpare
 9) **Zoom in and Zoom out options** :
 Adjust the size of the page according to your requirements.
 
+---
 
 # Main Window :
 A built-in PDF reader allows users to open and read documents effortlessly, with smooth scrolling, zoom options for a seamless reading experience.
 <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Folder%202/Main_Window.png" width="1000" height="600">
+
+---
 
 # Components of the Main Window :
 ## All Tools Frame
@@ -54,6 +57,8 @@ A built-in PDF reader allows users to open and read documents effortlessly, with
 
 ## File Menu
 <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Folder%202/File_Menu.png" width="650" height="600"> 
+
+---
 
 # Features
 ## Insert Watermark to the pdf :
@@ -78,15 +83,21 @@ Click on the upload watermark button and select the image that you want to inser
 
 You can adjust the size, transparency, and position of the watermark using the sliders, then click the Save PDF button.
 
+---
+
 ## Deleting the current page of the pdf :
 <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Delete_Pages/A.png" width="1000" height="600"> 
 <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Delete_Pages/B.png" width="1000" height="600"> 
 <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Delete_Pages/C.png" width="1000" height="600"> 
 
+---
+
 ## Inserting a blank page in the pdf :
 <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Insert_Blank_Page/A.png" width="1000" height="600"> 
 <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Insert_Blank_Page/B.png" width="1000" height="600"> 
 <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Insert_Blank_Page/C.png" width="1000" height="600"> 
+
+---
 
 ## Inserting a page in the pdf :
 <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Insert_Page/A.png" width="1000" height="600"> 
@@ -94,13 +105,15 @@ You can adjust the size, transparency, and position of the watermark using the s
 <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Insert_Page/C.png" width="1000" height="600"> 
 <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Insert_Page/D.png" width="1000" height="600"> 
 
-
+---
 
 ## Author - Mohd Maaz 
   <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/F.jpg" width="200" height="200"> 
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-maaz-rayeen-b914a4303) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/_maaz_1/)
 
+
+---
 
 ## Tech Stack
 
@@ -109,6 +122,8 @@ You can adjust the size, transparency, and position of the watermark using the s
 **Librabries:** Tkinter, Custom Tkinter, Pillow, Fitz, Threading,  PyPDF2, pypdf, OS, docx, pikepdf
 
 
+---
+
 ## Installation
 You need to install some libraries using the command terminal so that the code runs smoothly on your device.
 
@@ -116,7 +131,10 @@ You need to install some libraries using the command terminal so that the code r
 
 This single function will install all the libraries required for the project
 
-    
+
+---
+
+
 ## Support
 
 For support, message me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-maaz-rayeen-b914a4303)
