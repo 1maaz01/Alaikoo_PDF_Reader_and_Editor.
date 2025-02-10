@@ -7,6 +7,33 @@ solution for managing, editing, and interacting with PDF files. Its intuitive in
 and powerful functionality make it an essential tool for students, professionals,
 and anyone who frequently works with digital documents.
 
+1) 𝐄𝐝𝐢𝐭 𝐏𝐃𝐅 𝐅𝐢𝐥𝐞𝐬 :
+Add, Delete or Rearrange pages in the PDF documents.
+
+3) 𝐂𝐫𝐞𝐚𝐭𝐞 𝐏𝐃𝐅𝐬
+Convert images into professional quality PDFs in just a few clicks.
+
+4) 𝐌𝐞𝐫𝐠𝐞 𝐚𝐧𝐝 𝐒𝐩𝐥𝐢𝐭 𝐏𝐃𝐅𝐬 :
+Combine multiple PDF files into a single cohesive document, or split large PDFs into smaller sections.
+
+5) 𝐂𝐨𝐦𝐩𝐫𝐞𝐬𝐬 𝐏𝐃𝐅 𝐅𝐢𝐥𝐞𝐬 :
+Reduce the file size of PDFs without compromising quality, making it easier to share and store documents.
+
+6) 𝐒𝐞𝐜𝐮𝐫𝐞 𝐘𝐨𝐮𝐫 𝐏𝐃𝐅𝐬 :
+Lock PDF files with strong passwords, restrict editing or printing, and add watermarks to protect sensitive information.
+
+7) 𝐌𝐨𝐝𝐢𝐟𝐲 𝐏𝐚𝐬𝐬𝐰𝐨𝐫𝐝𝐬 :
+Update or remove existing passwords on secured PDF files with ease.
+
+8) **Convert the PDF :**
+Convert the pdf to images, word or excel files.
+
+8) **Insert or Remove Watermarks** :
+Insert a text or an image watermarK in the pdf. The size, position and transparency of the watermark can be controlled with the inbuilt functions in Alaikoo. You can also Remove the Watermarks from your pdf using this software.
+
+9) **Zoom in and Zoom out options**:
+Adjust the size of the page according to your requirements.
+
 
 # Main Window -
 A built-in PDF reader allows users to open and read documents effortlessly, with smooth scrolling, zoom options for a seamless reading experience.
@@ -62,38 +89,7 @@ You can adjust the size, transparency, and position of the watermark using the s
 <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Insert_Blank_Page/C.png" width="1000" height="600"> 
 
 
-𝟐) 𝐄𝐝𝐢𝐭 𝐏𝐃𝐅 𝐅𝐢𝐥𝐞𝐬 :
-Rearrange pages, or add annotations such as highlights, and comments directly to PDF documents.
 
-𝟑) 𝐂𝐫𝐞𝐚𝐭𝐞 𝐏𝐃𝐅𝐬
-Convert images or documents into professional-quality PDFs in just a few clicks.
-
-𝟒) 𝐒𝐞𝐥𝐞𝐜𝐭 𝐓𝐞𝐱𝐭 𝐢𝐧 𝐏𝐃𝐅𝐬:
-Enable users to select specific text in a PDF document for copying or annotating.
-
-𝟓) 𝐇𝐢𝐠𝐡𝐥𝐢𝐠𝐡𝐭 𝐓𝐞𝐱𝐭 :
-Add visual emphasis to important sections by highlighting selected text in a variety of colors for study, reference, or collaborative purposes.
-
-𝟔) 𝐀𝐝𝐝 𝐓𝐞𝐱𝐭 𝐭𝐨 𝐏𝐃𝐅𝐬 :
-Insert new text into existing PDF documents.
-
-𝟕) 𝐌𝐞𝐫𝐠𝐞 𝐚𝐧𝐝 𝐒𝐩𝐥𝐢𝐭 𝐏𝐃𝐅𝐬 :
-Combine multiple PDF files into a single cohesive document, or split large PDFs into smaller sections.
-
-𝟖) 𝐂𝐨𝐦𝐩𝐫𝐞𝐬𝐬 𝐏𝐃𝐅 𝐅𝐢𝐥𝐞𝐬 :
-Reduce the file size of PDFs without compromising quality, making it easier to share and store documents.
-
-𝟗) 𝐒𝐞𝐜𝐮𝐫𝐞 𝐘𝐨𝐮𝐫 𝐏𝐃𝐅𝐬 :
-Lock PDF files with strong passwords, restrict editing or printing, and add watermarks to protect sensitive information.
-
-𝟏𝟎) 𝐌𝐨𝐝𝐢𝐟𝐲 𝐏𝐚𝐬𝐬𝐰𝐨𝐫𝐝𝐬 :
-Update or remove existing passwords on secured PDF files with ease.
-
-𝟏𝟏) 𝐄𝐱𝐭𝐫𝐚𝐜𝐭 𝐂𝐨𝐧𝐭𝐞𝐧𝐭 :
-Extract specific pages, images from a PDF file, saving only what’s needed.
-
-𝟏𝟐) 𝐈𝐧𝐭𝐮𝐢𝐭𝐢𝐯𝐞 𝐔𝐬𝐞𝐫 𝐈𝐧𝐭𝐞𝐫𝐟𝐚𝐜𝐞 :
-A clean, user-friendly design makes it easy to navigate through various tools, even for beginners.
 ## Author - Mohd Maaz 
   <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/F.jpg" width="200" height="200"> 
   
