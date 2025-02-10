@@ -132,15 +132,15 @@ You can adjust the size, transparency, and position of the watermark using the s
 
 **Language:** Python
 
-**Librabries:** Tkinter, Custom Tkinter, Pillow, Fitz, Threading,  PyPDF2, pypdf, OS, docx, pikepdf
-
+**Librabries:** Tkinter, Custom Tkinter, Pillow, Fitz, Threading,  PyPDF2, pypdf, OS, docx, pikepdf, cx_Freeze, sys, collections, webbrowser, pdf2image, pdfplumber, pandas
+**GUI Design:** First created on paper before being implemented.
 
 ---
 
 ## Installation
 You need to install some libraries using the command terminal so that the code runs smoothly on your device.
 
-`pip install tk customtkinter pillow pymupdf threading pypdf2 pypdf os-python python-docx pikepdf`
+`pip install tkinter customtkinter Pillow PyMuPDF PyPDF2 pypdf docx pikepdf cx_Freeze webbrowser pdf2image pdfplumber pandas`
 
 This single function will install all the libraries required for the project
 
