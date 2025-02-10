@@ -137,6 +137,16 @@ You can adjust the size, transparency, and position of the watermark using the s
 
 ---
 
+## Merge PDF :
+
+<img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Merge%20PDF/A.png" width="1000" height="600"> 
+<img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Merge%20PDF/B.png" width="1000" height="600"> 
+<img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Merge%20PDF/C.png" width="1000" height="600"> 
+
+---
+
+---
+
 ## Author - Mohd Maaz 
   <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/F.jpg" width="200" height="200"> 
   
@@ -150,6 +160,7 @@ You can adjust the size, transparency, and position of the watermark using the s
 **Language:** Python
 
 **Librabries:** Tkinter, Custom Tkinter, Pillow, Fitz, Threading,  PyPDF2, pypdf, OS, docx, pikepdf, cx_Freeze, sys, collections, webbrowser, pdf2image, pdfplumber, pandas
+
 **GUI Design:** First created on paper before being implemented.
 
 ---
