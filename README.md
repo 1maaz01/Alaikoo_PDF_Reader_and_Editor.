@@ -10,7 +10,10 @@ and anyone who frequently works with digital documents.
 It is free of cost, so anyone can download the software on their devices and use it
 for free.
 
-# Components of the Main Window -- 
+# Main Window -
+<img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Folder%202/Main_Window.png" width="1000" height="600">
+
+# Components of the Main Window -
 ## All Tools Frame
 <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/New%20folder%20(2)/All_Tools_frame1A.png" width="200" height="600">     <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/New%20folder%20(2)/All_Tools_frame1B.png" width="200" height="600">                  <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/New%20folder%20(2)/All_Tools_frame2A.png" width="200" height="600">     <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/New%20folder%20(2)/All_Tools_frame2B.png" width="200" height="600">  
 
