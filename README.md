@@ -44,6 +44,8 @@ Click on the upload watermark button and select the image that you want to inser
 
 <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Add_Watermark/Add_Watermark_2.png" width="1000" height="600"> 
 
+You can adjust the size, transparency, and position of the watermark using the sliders, then click the Save PDF button.
+
 
 𝟏) 𝐑𝐞𝐚𝐝 𝐏𝐃𝐅 𝐅𝐢𝐥𝐞𝐬 :
 A built-in PDF reader allows users to open and read documents effortlessly, with smooth scrolling, zoom options for a seamless reading experience.
