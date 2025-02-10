@@ -7,8 +7,6 @@ solution for managing, editing, and interacting with PDF files. Its intuitive in
 and powerful functionality make it an essential tool for students, professionals,
 and anyone who frequently works with digital documents.
 
-It is free of cost, so anyone can download the software on their devices and use it
-for free.
 
 # Main Window -
 <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Folder%202/Main_Window.png" width="1000" height="600">
